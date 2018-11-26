@@ -1,0 +1,3 @@
+vhdl isim_temp "or_8.vhd"
+vhdl isim_temp "decoder_3x8.vhd"
+vhdl isim_temp "prom.vhd"

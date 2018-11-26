@@ -1,0 +1,5 @@
+vhdl work "half_adder.vhd"
+vhdl work "full_adder_using_half_adder.vhd"
+vhdl work "four_bit_parallel_adder_by_full_adder.vhd"
+vhdl work "adder_32_bit_using_4_bit_adder.vhd"
+vhdl work "adder_32_bit_tb.vhd"

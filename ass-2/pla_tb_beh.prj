@@ -1,0 +1,4 @@
+vhdl work "or_2.vhd"
+vhdl work "and_2.vhd"
+vhdl work "pla.vhd"
+vhdl work "pla_tb.vhd"

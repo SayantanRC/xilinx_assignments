@@ -1,0 +1,27 @@
+Running: /media/sayantan/Stuff/xilinx_installation/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/sayantan/xilinx working dir/ass-2/prom_tb_isim_beh.exe -prj /home/sayantan/xilinx working dir/ass-2/prom_tb_beh.prj work.prom_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/sayantan/xilinx working dir/ass-2/or_8.vhd" into library work
+Parsing VHDL file "/home/sayantan/xilinx working dir/ass-2/decoder_3x8.vhd" into library work
+Parsing VHDL file "/home/sayantan/xilinx working dir/ass-2/prom.vhd" into library work
+WARNING:HDLCompiler:946 - "/home/sayantan/xilinx working dir/ass-2/prom.vhd" Line 68: Actual for formal port i is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "/home/sayantan/xilinx working dir/ass-2/prom.vhd" Line 69: Actual for formal port i is neither a static name nor a globally static expression
+Parsing VHDL file "/home/sayantan/xilinx working dir/ass-2/prom_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95980 KB
+Fuse CPU Usage: 1790 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity decoder_3x8 [decoder_3x8_default]
+Compiling architecture behavioral of entity or_8 [or_8_default]
+Compiling architecture behavioral of entity prom [prom_default]
+Compiling architecture behavior of entity prom_tb
+Time Resolution for simulation is 1ps.
+Compiled 9 VHDL Units
+Built simulation executable /home/sayantan/xilinx working dir/ass-2/prom_tb_isim_beh.exe
+Fuse Memory Usage: 661680 KB
+Fuse CPU Usage: 1820 ms
+GCC CPU Usage: 520 ms

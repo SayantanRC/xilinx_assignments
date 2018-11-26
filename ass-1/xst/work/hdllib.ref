@@ -1,0 +1,10 @@
+EN mux_8x1_using_2x1 NULL "/home/sayantan/xilinx working dir/ass-1/mux_8x1_using_2x1.vhd" sub00/vhpl04 1542211182
+EN half_adder NULL "/home/sayantan/xilinx working dir/ass-1/half_adder.vhd" sub00/vhpl06 1542213739
+AR mux_4x1_using_2x1 behavioral "/home/sayantan/xilinx working dir/ass-1/mux_4x1_using_2x1.vhd" sub00/vhpl03 1542212459
+AR full_adder_using_half_adder behavioral "/home/sayantan/xilinx working dir/ass-1/full_adder_using_half_adder.vhd" sub00/vhpl09 1542213742
+AR half_adder behavioral "/home/sayantan/xilinx working dir/ass-1/half_adder.vhd" sub00/vhpl07 1542213740
+EN full_adder_using_half_adder NULL "/home/sayantan/xilinx working dir/ass-1/full_adder_using_half_adder.vhd" sub00/vhpl08 1542213741
+AR mux_2x1 behavioral "/home/sayantan/xilinx working dir/ass-1/mux_2x1.vhd" sub00/vhpl01 1542212457
+EN mux_4x1_using_2x1 NULL "/home/sayantan/xilinx working dir/ass-1/mux_4x1_using_2x1.vhd" sub00/vhpl02 1542212458
+EN mux_2x1 NULL "/home/sayantan/xilinx working dir/ass-1/mux_2x1.vhd" sub00/vhpl00 1542212456
+AR mux_8x1_using_2x1 behavioral "/home/sayantan/xilinx working dir/ass-1/mux_8x1_using_2x1.vhd" sub00/vhpl05 1542211183

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/sayantan/xilinx working dir/ass-2/prom_tb_isim_beh.exe" -prj "/home/sayantan/xilinx working dir/ass-2/prom_tb_beh.prj" "work.prom_tb" 

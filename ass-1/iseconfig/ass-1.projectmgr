@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="ass-1" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_0 - four_bit_parallel_adder_by_full_adder - Behavioral/FA1 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_0 - four_bit_parallel_adder_by_full_adder - Behavioral/FA2 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_0 - four_bit_parallel_adder_by_full_adder - Behavioral/FA3 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_1 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_2 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_3 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_4 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_5 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_6 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_7 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_by_full_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_by_full_adder.vhd/FA0 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_by_full_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_by_full_adder.vhd/FA1 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_by_full_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_by_full_adder.vhd/FA2 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_by_full_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_by_full_adder.vhd/FA3 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/mux_8x1_using_2x1 - Behavioral |home|sayantan|xilinx working dir|ass-1|mux_8x1_using_2x1.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>mux_4x1_using_2x1 - Behavioral (/home/sayantan/xilinx working dir/ass-1/mux_4x1_using_2x1.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000002ec000000020000000000000000000000000200000064ffffffff000000810000000300000002000002ec0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>mux_4x1_using_2x1 - Behavioral (/home/sayantan/xilinx working dir/ass-1/mux_4x1_using_2x1.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000185000000010000000100000000000000000000000064ffffffff000000810000000000000001000001850000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000003a1000000040101000100000000000000000000000064ffffffff0000008100000000000000040000008e00000001000000000000002b0000000100000000000000880000000100000000000002600000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>mux_2x1.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000125000000010001000100000000000000000000000064ffffffff000000810000000000000001000001250000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000151000000010000000100000000000000000000000064ffffffff000000810000000000000001000001510000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000185000000010000000100000000000000000000000064ffffffff000000810000000000000001000001850000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral/CLA4_0 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral/CLA4_1 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral/CLA4_2 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral/CLA4_3 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral/CLA4_4 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral/CLA4_5 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral/CLA4_6 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_tb - behavior |home|sayantan|xilinx working dir|ass-1|adder_32_bit_tb.vhd/uut - adder_32_bit_using_4_bit_adder - Behavioral/CLA4_7 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_0 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_1 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_2 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_3 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_4 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_5 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_6 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/adder_32_bit_using_4_bit_adder - Behavioral |home|sayantan|xilinx working dir|ass-1|adder_32_bit_using_4_bit_adder.vhd/CLA4_7 - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_tb - behavior |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_tb.vhd/uut - four_bit_parallel_adder_by_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_tb - behavior |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_tb.vhd/uut - four_bit_parallel_adder_by_full_adder - Behavioral/FA0 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_tb - behavior |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_tb.vhd/uut - four_bit_parallel_adder_by_full_adder - Behavioral/FA1 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_tb - behavior |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_tb.vhd/uut - four_bit_parallel_adder_by_full_adder - Behavioral/FA2 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/four_bit_parallel_adder_tb - behavior |home|sayantan|xilinx working dir|ass-1|four_bit_parallel_adder_tb.vhd/uut - four_bit_parallel_adder_by_full_adder - Behavioral/FA3 - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/full_adder_tb - behavior |home|sayantan|xilinx working dir|ass-1|full_adder_tb.vhd/uut - full_adder_using_half_adder - Behavioral</ClosedNode>
+         <ClosedNode>/mux_4x1_tb - behavior |home|sayantan|xilinx working dir|ass-1|mux_4x1_tb.vhd</ClosedNode>
+         <ClosedNode>/mux_4x1_tb - behavior |home|sayantan|xilinx working dir|ass-1|mux_4x1_tb.vhd/uut - mux_4x1_using_2x1 - Behavioral</ClosedNode>
+         <ClosedNode>/mux_8x1_tb - behavior |home|sayantan|xilinx working dir|ass-1|mux_8x1_tb.vhd/uut - mux_8x1_using_2x1 - Behavioral</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>adder_32_bit_tb - behavior (/home/sayantan/xilinx working dir/ass-1/adder_32_bit_tb.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000002d1000000020000000000000000000000000200000064ffffffff000000810000000300000002000002d10000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>adder_32_bit_tb - behavior (/home/sayantan/xilinx working dir/ass-1/adder_32_bit_tb.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000185000000010000000100000000000000000000000064ffffffff000000810000000000000001000001850000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000151000000010000000100000000000000000000000064ffffffff000000810000000000000001000001510000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001440000011b01000000040100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>

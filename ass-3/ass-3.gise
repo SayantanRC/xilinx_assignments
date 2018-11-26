@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="ass-3.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="D_FF_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="D_FF_tb_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comparator_8_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparator_8_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparator_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comparator_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="comparator_tb_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparator_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mo6_counter_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mo6_counter_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="mo6_counter_tb_isim_beh.wdb"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mod10_counter_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mod9_counter_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mod9_counter_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="shift_register_4bit_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="shift_register_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="shift_register_tb_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tristate_buffer_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tristate_buffer_tb_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1542842782" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1542842782">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1542987591" xil_pn:in_ck="3424521735867506688" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1542987591">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="D_FF.vhd"/>
+      <outfile xil_pn:name="D_FF_tb.vhd"/>
+      <outfile xil_pn:name="T_FF.vhd"/>
+      <outfile xil_pn:name="comparator_8.vhd"/>
+      <outfile xil_pn:name="comparator_tb.vhd"/>
+      <outfile xil_pn:name="mo6_counter_tb.vhd"/>
+      <outfile xil_pn:name="mod10_counter.vhd"/>
+      <outfile xil_pn:name="mod10_counter_tb.vhd"/>
+      <outfile xil_pn:name="mod6_counter.vhd"/>
+      <outfile xil_pn:name="shift_register_4bit.vhd"/>
+      <outfile xil_pn:name="shift_register_tb.vhd"/>
+      <outfile xil_pn:name="tristate_buffer.vhd"/>
+      <outfile xil_pn:name="tristate_buffer_tb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1542987372" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="7975259961139970150" xil_pn:start_ts="1542987372">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1542987372" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="6339174014363592232" xil_pn:start_ts="1542987372">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1542958344" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="8916057666874082267" xil_pn:start_ts="1542958344">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1542987591" xil_pn:in_ck="3424521735867506688" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1542987591">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="D_FF.vhd"/>
+      <outfile xil_pn:name="D_FF_tb.vhd"/>
+      <outfile xil_pn:name="T_FF.vhd"/>
+      <outfile xil_pn:name="comparator_8.vhd"/>
+      <outfile xil_pn:name="comparator_tb.vhd"/>
+      <outfile xil_pn:name="mo6_counter_tb.vhd"/>
+      <outfile xil_pn:name="mod10_counter.vhd"/>
+      <outfile xil_pn:name="mod10_counter_tb.vhd"/>
+      <outfile xil_pn:name="mod6_counter.vhd"/>
+      <outfile xil_pn:name="shift_register_4bit.vhd"/>
+      <outfile xil_pn:name="shift_register_tb.vhd"/>
+      <outfile xil_pn:name="tristate_buffer.vhd"/>
+      <outfile xil_pn:name="tristate_buffer_tb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1542987595" xil_pn:in_ck="3424521735867506688" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-8003155581214571292" xil_pn:start_ts="1542987591">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="mo6_counter_tb_beh.prj"/>
+      <outfile xil_pn:name="mo6_counter_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1543231573" xil_pn:in_ck="-2225853291519064975" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="3684475816098684391" xil_pn:start_ts="1543231572">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+  </transforms>
+
+</generated_project>

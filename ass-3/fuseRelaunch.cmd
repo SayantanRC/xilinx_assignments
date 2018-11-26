@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/sayantan/xilinx working dir/ass-3/mo6_counter_tb_isim_beh.exe" -prj "/home/sayantan/xilinx working dir/ass-3/mo6_counter_tb_beh.prj" "work.mo6_counter_tb" 

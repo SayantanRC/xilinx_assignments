@@ -1,0 +1,29 @@
+Command line:
+   pla_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55983
+
+Wed Nov 21 23:08:45 2018
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 196.973 Meg
+
+ Total Signals          : 29
+ Total Nets             : 9
+ Total Signal Drivers   : 9
+ Total Blocks           : 8
+ Total Primitive Blocks : 6
+ Total Processes        : 7
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 369
+Total Line Count : 26
+
+ Total Simulation Time: 0.03 sec
+
+ Current Memory Usage: 272.474 Meg
+
+Wed Nov 21 23:08:55 2018
+

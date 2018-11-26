@@ -1,0 +1,3 @@
+vhdl isim_temp "or_2.vhd"
+vhdl isim_temp "and_2.vhd"
+vhdl isim_temp "pla.vhd"

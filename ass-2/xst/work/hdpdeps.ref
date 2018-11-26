@@ -1,0 +1,7 @@
+V3 3
+FL "/home/sayantan/xilinx working dir/ass-2/alu_4bit.vhd" 2018/11/21.17:12:01 P.20131013
+EN work/alu_4bit 1542800527 \
+      FL "/home/sayantan/xilinx working dir/ass-2/alu_4bit.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/alu_4bit/Behavioral 1542800528 \
+      FL "/home/sayantan/xilinx working dir/ass-2/alu_4bit.vhd" EN work/alu_4bit 1542800527

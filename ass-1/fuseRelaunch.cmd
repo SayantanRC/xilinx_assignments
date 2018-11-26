@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/sayantan/xilinx working dir/ass-1/adder_32_bit_tb_isim_beh.exe" -prj "/home/sayantan/xilinx working dir/ass-1/adder_32_bit_tb_beh.prj" "work.adder_32_bit_tb" 

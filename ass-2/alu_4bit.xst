@@ -1,0 +1,5 @@
+set -tmpdir "/home/sayantan/xilinx working dir/ass-2/xst/projnav.tmp"
+set -xsthdpdir "/home/sayantan/xilinx working dir/ass-2/xst"
+elaborate
+-ifn alu_4bit.prj
+-ifmt mixed

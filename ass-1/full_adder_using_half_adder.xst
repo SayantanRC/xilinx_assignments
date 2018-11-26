@@ -1,0 +1,5 @@
+set -tmpdir "/home/sayantan/xilinx working dir/ass-1/xst/projnav.tmp"
+set -xsthdpdir "/home/sayantan/xilinx working dir/ass-1/xst"
+elaborate
+-ifn full_adder_using_half_adder.prj
+-ifmt mixed

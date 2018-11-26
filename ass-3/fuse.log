@@ -1,0 +1,24 @@
+Running: /media/sayantan/Stuff/xilinx_installation/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/sayantan/xilinx working dir/ass-3/mo6_counter_tb_isim_beh.exe -prj /home/sayantan/xilinx working dir/ass-3/mo6_counter_tb_beh.prj work.mo6_counter_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/sayantan/xilinx working dir/ass-3/T_FF.vhd" into library work
+Parsing VHDL file "/home/sayantan/xilinx working dir/ass-3/mod6_counter.vhd" into library work
+Parsing VHDL file "/home/sayantan/xilinx working dir/ass-3/mo6_counter_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95972 KB
+Fuse CPU Usage: 1580 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity T_FF [t_ff_default]
+Compiling architecture behavioral of entity mod6_counter [mod6_counter_default]
+Compiling architecture behavior of entity mo6_counter_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable /home/sayantan/xilinx working dir/ass-3/mo6_counter_tb_isim_beh.exe
+Fuse Memory Usage: 661620 KB
+Fuse CPU Usage: 1600 ms
+GCC CPU Usage: 850 ms

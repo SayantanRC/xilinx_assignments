@@ -1,0 +1,3 @@
+vhdl work "T_FF.vhd"
+vhdl work "mod6_counter.vhd"
+vhdl work "mo6_counter_tb.vhd"

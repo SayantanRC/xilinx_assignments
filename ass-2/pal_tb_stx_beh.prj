@@ -1,0 +1,4 @@
+vhdl isim_temp "or_3.vhd"
+vhdl isim_temp "and_2.vhd"
+vhdl isim_temp "pal.vhd"
+vhdl isim_temp "pal_tb.vhd"

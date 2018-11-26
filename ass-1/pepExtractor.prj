@@ -1,0 +1,4 @@
+work	"adder_32_bit_using_4_bit_adder.vhd"
+work	"four_bit_parallel_adder_by_full_adder.vhd"
+work	"full_adder_using_half_adder.vhd"
+work	"half_adder.vhd"

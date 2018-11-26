@@ -1,0 +1,4 @@
+vhdl work "or_8.vhd"
+vhdl work "decoder_3x8.vhd"
+vhdl work "prom.vhd"
+vhdl work "prom_tb.vhd"

@@ -11,4 +11,5 @@
 > source <xilinx_installation_dir>/14.7/ISE_DS/settings32.sh  
 > cd <xilinx_installation_dir>/14.7/ISE_DS/ISE/bin/lin64  
 > ./ise  
-4. Open the assignments by <b>Open Project</b> button.
+4. Open the assignments by <b>File->Open Project</b> option.  
+5. In the Open project window, navigate to the assignment folder and open the `assignment_name.xise` file.  

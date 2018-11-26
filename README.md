@@ -12,4 +12,9 @@
 > cd <xilinx_installation_dir>/14.7/ISE_DS/ISE/bin/lin64  
 > ./ise  
 4. Open the assignments by <b>File->Open Project</b> option.  
-5. In the Open project window, navigate to the assignment folder and open the `assignment_name.xise` file.  
+5. In the Open project window, navigate to the assignment folder and open the <b>assignment_name.xise</b> file.  
+
+## Run the assignments  
+1. In the left <b>Design</b> column, click on the <b>Implementation</b> radio button.  
+2. Click on a testbench file (ending with tb in the name)  
+3. Double click on <b>Simulate Behavioral Model<b/>  

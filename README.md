@@ -1,5 +1,7 @@
 # Xilinx assignments
 
+Assignment 3 and 4 is accidentally merged in ass-3. Sorry for the inconvenience.
+
 ## Get the assignments  
 1. Download the assignments - `git clone https://github.com/SayantanRC/xilinx_assignments.git` or Click on the green download button and extract it.  
 2. Download Xilinx 17.4 ISE from https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html

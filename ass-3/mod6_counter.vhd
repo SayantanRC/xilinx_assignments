@@ -51,6 +51,15 @@ signal r : STD_LOGIC := '0';
 begin
 
 
+-- here we need only 3 flip flops
+T0 : T_FF port map ('1', s(0), CLK, r);
+T1 : T_FF port map ('1', s(1), s(0), r);
+T2 : T_FF port map ('1', s(2), s(1), r);
+
+-- we need only the last output 
+-- i.e frequency divided by 6
+Q <= s(2);
+
 
 process (CLK, RST, s) is
 begin
@@ -60,15 +69,6 @@ else
 	r <= '0';
 end if;
 end process;
-
--- here we need only 3 flip flops
-T0 : T_FF port map ('1', s(0), CLK, r);
-T1 : T_FF port map ('1', s(1), s(0), r);
-T2 : T_FF port map ('1', s(2), s(1), r);
-
--- we need only the last output 
--- i.e frequency divided by 6
-Q <= s(2);
 	
 end Behavioral;
 

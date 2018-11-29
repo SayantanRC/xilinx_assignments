@@ -76,13 +76,13 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>D_FF_tb - behavior (/home/sayantan/xilinx working dir/ass-3/D_FF_tb.vhd)</SelectedItem>
+         <SelectedItem>tristate_buffer_tb - behavior (/home/sayantan/xilinx working dir/ass-3/tristate_buffer_tb.vhd)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >8</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001da000000020000000000000000000000000200000064ffffffff000000810000000300000002000001da0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>D_FF_tb - behavior (/home/sayantan/xilinx working dir/ass-3/D_FF_tb.vhd)</CurrentItem>
+      <CurrentItem>tristate_buffer_tb - behavior (/home/sayantan/xilinx working dir/ass-3/tristate_buffer_tb.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>

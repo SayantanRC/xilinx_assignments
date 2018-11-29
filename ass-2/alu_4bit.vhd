@@ -42,7 +42,7 @@ end alu_4bit;
 -- Select(SEL)			Operation			Carry flag(CY_FLAG)
 
 -- 000					A + B					Overflow bit
--- 001					A - B					'1' if A > B
+-- 001					A - B					'1' if A < B
 -- 010					A AND B				'0'
 -- 011					A OR B				'0'
 -- 100					NOT A					'0'

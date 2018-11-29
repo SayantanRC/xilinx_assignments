@@ -11,5 +11,23 @@
 <msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/sayantan/xilinx working dir/ass-1/adder_32_bit_using_4_bit_adder.vhd&quot; into library work</arg>
 </msg>
 
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/sayantan/xilinx working dir/ass-1/four_bit_parallel_adder_by_full_adder.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/sayantan/xilinx working dir/ass-1/full_adder_using_half_adder.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/sayantan/xilinx working dir/ass-1/half_adder.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/sayantan/xilinx working dir/ass-1/mux_2x1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/sayantan/xilinx working dir/ass-1/mux_4x1_using_2x1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/sayantan/xilinx working dir/ass-1/mux_8x1_using_2x1.vhd&quot; into library work</arg>
+</msg>
+
 </messages>
 

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-11-26T18:34:20</DateModified>
+  <DateModified>2018-11-30T02:00:24</DateModified>
   <ModuleName>mux_8x1_using_2x1</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/sayantan/xilinx working dir/ass-1/iseconfig/mux_8x1_using_2x1.xreport</SavedFilePath>

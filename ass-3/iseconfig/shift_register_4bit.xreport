@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-11-26T18:34:15</DateModified>
+  <DateModified>2018-11-30T02:00:33</DateModified>
   <ModuleName>shift_register_4bit</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/sayantan/xilinx working dir/ass-3/iseconfig/shift_register_4bit.xreport</SavedFilePath>
